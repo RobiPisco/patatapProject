@@ -11,14 +11,14 @@ if you want to add different sound you have only to append value to your data ar
 
 var keyData = {
 
-  theKeyYouWant: {
+    theKeyYouWant: {
   
-    sound: new Howl({
+      sound: new Howl({
     
-    src: ['yourFolder/YourSound.mp3']
+      src: ['yourFolder/YourSound.mp3']
     
-    }),
+      }),
     
-    color: 'colorYouWant'
+      color: 'colorYouWant'
     
-  }
+    }
