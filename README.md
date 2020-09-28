@@ -15,7 +15,7 @@ var keyData = {
   
       sound: new Howl({
     
-      src: ['yourFolder/YourSound.mp3']
+        src: ['yourFolder/YourSound.mp3']
     
       }),
     
